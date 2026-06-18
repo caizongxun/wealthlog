@@ -1,0 +1,4 @@
+-- See README for full migration history
+-- Applied via Supabase MCP
+-- Project: yskicvidxfqnkenvzmmy (wealthlog)
+-- Run `supabase db pull` to sync local schema
